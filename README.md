@@ -26,6 +26,9 @@ Firebird Forge is a revolutionary framework for robotics control with Firebird a
 1. Waitron_Technocrats: Case study of a real-world robotics application
 2. ESP Controller: Controlling Firebird V using ESP32
 
+## Junkyard
+For other codes in junk that might be useful for some users
+
 ## Getting Started
 
 To get started with Firebird Forge, please refer to the documentation in each module. You'll need a Firebird robot and an Arduino microcontroller to begin experimenting with the framework.
