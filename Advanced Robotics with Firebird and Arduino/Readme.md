@@ -20,3 +20,4 @@
 
 1. Waitron_Technocrats: Case study of a real-world robotics application
 2. ESP Controller: Controlling Firebird V using ESP32
+3. Bluetooth: Bluetooth Controller
