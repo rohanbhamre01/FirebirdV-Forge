@@ -1,2 +1,2 @@
-# FirebirdV-Forge
-A New Paradigm for Robotics Control with Firebird and Arduino for Reimagining Firebird-Arduino Interactions.
+# Firebird-Forge
+Firebird Forge: A Revolutionary Framework for Robotics Control with Firebird and Arduino. This new paradigm reimagines Firebird-Arduino interactions, providing streamlined and intuitive control of Firebird robots. With Firebird Forge, developers can accelerate robotics development and achieve greater flexibility, scalability, and precision in their projects. Firebird Forge is a game-changing tool that empowers robotics enthusiasts and professionals alike to take their projects to the next level."
