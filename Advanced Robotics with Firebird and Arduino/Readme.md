@@ -1,4 +1,4 @@
-#Advanced Robotics Control with Firebird and Arduino
+Advanced Robotics Control with Firebird and Arduino
 
 Module 1: Introduction to Firebird Robotics Control
     Overview of Firebird robot and Arduino microcontroller
