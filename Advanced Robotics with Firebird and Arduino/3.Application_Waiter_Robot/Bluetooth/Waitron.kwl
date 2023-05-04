@@ -1,0 +1,32 @@
+Keuwlsoft Bluetooth Electronics Panel File
+2023-05-05 01:12:00
+2
+
+*.kwl
+set_grid_size(17,7)
+add_text_box(12,0,3,C,Manual,245,240,245,)
+add_text_box(7,0,3,C,WAITRON ,245,240,245,)
+add_text_box(2,0,3,C,MOVE,245,240,245,)
+add_button(13,2,2,w,v)
+add_button(14,3,5,d,v)
+add_button(12,3,4,a,v)
+add_button(13,3,6,v,v)
+add_button(13,4,3,s,v)
+add_button(4,2,5,6,)
+add_button(3,1,2,8,)
+add_button(2,2,4,4,)
+add_button(3,3,3,2,)
+add_button(3,2,1,N,n)
+add_button(2,4,21,t,)
+add_button(4,4,22,y,)
+add_button(2,5,18,u,)
+add_button(4,5,19,i,)
+add_button(2,6,23,o,)
+add_button(4,6,20,p,)
+add_button(3,5,7,k,)
+add_button(3,4,2,r,)
+add_button(3,6,9,z,)
+add_send_box(11,6,5,,,)
+add_monitor(6,1,5,,2)
+add_monitor(6,4,5,,3)
+set_panel_notes(Waitron,,,)
