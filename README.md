@@ -12,8 +12,8 @@ Firebird Forge is a revolutionary framework for robotics control with Firebird a
 
 ### Module 2: Firebird Sensor Integration
 
-1. FB5_blink
-2. FB5_buzzer
+1. FB5_blink: Led Blink to test the successful upload of code to the Firebird robot's Arduino microcontroller.  
+2. FB5_buzzer: Led Blink to test the successful upload of code to the Firebird robot's Arduino microcontroller.  
 3. FBV_Battery_voltage_meter: Monitoring battery voltage levels
 4. FBV_Ir_sensor: Understanding infrared sensors and their applications
 5. FBV_ShaftEncoder_test: Working with shaft encoders for precise motor control
@@ -24,7 +24,7 @@ Firebird Forge is a revolutionary framework for robotics control with Firebird a
 ### Module 3: Applications
 
 1. Waitron_Technocrats: Case study of a real-world robotics application
-2. ESP Controller: Controlling FirebirdV using ESP32
+2. ESP Controller: Controlling Firebird V using ESP32
 
 ## Getting Started
 
