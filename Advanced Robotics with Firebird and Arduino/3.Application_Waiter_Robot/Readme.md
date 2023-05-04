@@ -1,5 +1,4 @@
 # Bluetooth
-Bluetooth-Controller  Schematic for "Bluetooth Electronics" App
 This repository contains a schematic for a Bluetooth-controller for robot that can be imported into the "Bluetooth Electronics" Android app. 
 
 With this schematic, you can build your own Bluetooth-controlled robot and control it using the "Bluetooth Electronics" app on your Android device. The app allows you to send commands to the robot using Bluetooth, so you can control its movements, direction, and other functions wirelessly.
