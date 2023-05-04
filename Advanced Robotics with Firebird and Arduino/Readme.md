@@ -1,16 +1,16 @@
 Advanced Robotics Control with Firebird and Arduino
 
 Module 1: Introduction to Firebird Robotics Control
-    Overview of Firebird robot and Arduino microcontroller
-    Setting up the development environment
-    Basic programming concepts for robotics control
+       1. Overview of Firebird robot and Arduino microcontroller
+       2. Setting up the development environment
+       3. Basic programming concepts for robotics control
 
 Module 2: Firebird Sensor Integration
-    FBV_Battery_voltage_meter: Monitoring battery voltage levels
-    FBV_Ir_sensor: Understanding infrared sensors and their applications
-    FBV_ShaftEncoder_test: Working with shaft encoders for precise motor control
-    FBV_Sharp_sensor: Using Sharp distance sensors for object detection
-    FBV_Sharp_Obstacle_detect: Obstacle detection using Sharp sensors
+    1. FBV_Battery_voltage_meter: Monitoring battery voltage levels
+    2. FBV_Ir_sensor: Understanding infrared sensors and their applications
+    3. FBV_ShaftEncoder_test: Working with shaft encoders for precise motor control
+    4. FBV_Sharp_sensor: Using Sharp distance sensors for object detection
+    5. FBV_Sharp_Obstacle_detect: Obstacle detection using Sharp sensors
 
 Module 3: Communication and Control
     UART_tester: Testing and debugging UART communication
